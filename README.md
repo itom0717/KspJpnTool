@@ -1,3 +1,4 @@
-# KspJpnTool
-Kerbal Space Program Japanese Tool
-ƒƒjƒ…[‚Ì‚İ“ú–{Œê‰»
+# KspJpnTool 
+Kerbal Space Program Japanese Tool 
+ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã®ã¿æ—¥æœ¬èªåŒ– 
+ 
